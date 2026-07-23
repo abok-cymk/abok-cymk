@@ -1,3 +1,4 @@
- #### Developed at Green Impact Innovators by [abok-cymk](https://github.com/abok-cymk) Software Engineer | Web Developer at GII
+## Green Impact Innovators
+- [Green Impact Innovators | CBO](https://greenimpactinnovators.works/) 
+- Developed at Green Impact Innovators organization by [abok-cymk](https://github.com/abok-cymk) Fullstack dev | Freelancer
 
-[Green Impact Innovators | CBO](https://greenimpactinnovators.works/)
